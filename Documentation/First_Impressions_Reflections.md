@@ -50,7 +50,7 @@ JSTOR turned out to be one of the most difficult platforms to use with GPT-2. Th
 
 The JSTOR search results were not strictly medical as I suspected, but rather heavily weighted towards the social sciences. Multiple articles were displayed from the Williams Institute at UCLA that discuss the public opinion of transgender rights in various countries. Multiple articles about transgender students and academics in higher education were displayed as well.
 
-The language used in the generated texts is often formal and academic, as I predicted. While there were not many articles specifically about health and medicine, medical language and discussions could still be found in several of the texts.The JSTOR texts were also the most guilty of "Unintended Transphobia", which is detailed later in this document. I found that the JSTOR texts were the easiest to identify.
+The language used in the generated texts is often formal and academic, as I predicted. While there were not many articles specifically about health and medicine, medical language and discussions could still be found in several of the texts. I found that the JSTOR texts were the easiest to identify.
 
 ### YouTube
 
